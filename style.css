@@ -1,0 +1,13 @@
+table, td, th, tr {
+    border-style: solid;
+    border-collapse: collapse;
+    padding: 10px;
+    font-family: "American Typewriter";
+    font-size: 15px;
+    alignment: left;
+    margin: left    ;
+    border-spacing: 20px;
+    border-color: blue;
+}
+
+/*tr:nth-child(even) {background-color: #f2f2f2;}*/
